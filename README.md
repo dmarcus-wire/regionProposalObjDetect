@@ -1,6 +1,10 @@
 # Region Proposal Object Detection
 
 ![lifeboat detect](images/output/lifeboat-out.png)
+![lifeboat search](images/output/lifeboat2-out.png)
+![lifeboat detect2](images/output/lifeboat2-out2.png)
+
+List of the 1k objects resnet50 can identify
 
 Region Proposal algorithm = spend computation in this area of the iamge
 - examines texture, size, shape, and meta-similarity of all
