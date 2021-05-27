@@ -1,5 +1,7 @@
 # Region Proposal Object Detection
 
+![lifeboat detect](images/output/lifeboat-out.png)
+
 Region Proposal algorithm = spend computation in this area of the iamge
 - examines texture, size, shape, and meta-similarity of all
 
